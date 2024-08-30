@@ -37,8 +37,8 @@ const Options = () => {
       <p className="text-white text-xs font-medium flex  items-center gap-1">
         <IoIosInformationCircleOutline className="text-[#F9CC0B] text-sm" />
         {api === "8stream"
-          ? "8stream provide multi lang"
-          : "Consumet provide eng and subs"}
+          ? "Multi-lang provide multi lang"
+          : "English provide eng and subs"}
       </p>
     </div>
   );
