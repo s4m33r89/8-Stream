@@ -16,7 +16,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "8 Stream",
+  title: "FireFlix",
   generator: "Next.js",
   description: "Watch Movies and TV Shows Online For Free",
   manifest: "/manifest.json",
